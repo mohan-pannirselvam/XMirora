@@ -1,0 +1,15 @@
+{
+  "name": "XMirora-fonts",
+  "description": "Package for fonts use by XMirora Core.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitHub.com/mohan-pannirselvam/XMirora.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitHub.com/mohan-pannirselvam/XMirora/issues"
+  },
+  "dependencies": {
+    "roboto-fontface": "^0.8.0"
+  }
+}

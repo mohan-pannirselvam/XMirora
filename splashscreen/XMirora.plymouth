@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=XMirora
+Description=Mirror Splash
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/XMirora
+ScriptFile=/usr/share/plymouth/themes/XMirora/XMirora.script
