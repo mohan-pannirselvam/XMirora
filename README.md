@@ -1,4 +1,4 @@
-![XMirora²: The open source modular smart mirror platform. ](.github/header.png)
+![XMirora²: The open source modular smart mirror platform. ](.github/2.jpg)
 
 <p align="center">
 	<a href="https://david-dm.org/mohan-pannirselvam/XMirora"><img src="https://david-dm.org/mohan-pannirselvam/XMirora.svg" alt="Dependency Status"></a>
