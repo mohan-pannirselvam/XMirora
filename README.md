@@ -1,12 +1,12 @@
 ![XMirora²: The open source modular smart mirror platform. ](.github/header.png)
 
 <p align="center">
-	<a href="https://david-dm.org/MichMich/XMirora"><img src="https://david-dm.org/MichMich/XMirora.svg" alt="Dependency Status"></a>
-	<a href="https://david-dm.org/MichMich/XMirora#info=devDependencies"><img src="https://david-dm.org/MichMich/XMirora/dev-status.svg" alt="devDependency Status"></a>
+	<a href="https://david-dm.org/mohan-pannirselvam/XMirora"><img src="https://david-dm.org/mohan-pannirselvam/XMirora.svg" alt="Dependency Status"></a>
+	<a href="https://david-dm.org/mohan-pannirselvam/XMirora#info=devDependencies"><img src="https://david-dm.org/mohan-pannirselvam/XMirora/dev-status.svg" alt="devDependency Status"></a>
 	<a href="https://bestpractices.coreinfrastructure.org/projects/347"><img src="https://bestpractices.coreinfrastructure.org/projects/347/badge"></a>
 	<a href="http://choosealicense.com/licenses/mit"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
-	<a href="https://travis-ci.org/MichMich/XMirora"><img src="https://travis-ci.org/MichMich/XMirora.svg" alt="Travis"></a>
-	<a href="https://snyk.io/test/github/MichMich/XMirora"><img src="https://snyk.io/test/github/MichMich/XMirora/badge.svg" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/github/MichMich/XMirora" style="max-width:100%;"></a>
+	<a href="https://travis-ci.org/mohan-pannirselvam/XMirora"><img src="https://travis-ci.org/mohan-pannirselvam/XMirora.svg" alt="Travis"></a>
+	<a href="https://snyk.io/test/github/mohan-pannirselvam/XMirora"><img src="https://snyk.io/test/github/mohan-pannirselvam/XMirora/badge.svg" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/github/mohan-pannirselvam/XMirora" style="max-width:100%;"></a>
 	<a href="http://slack.XMirora.builders"><img src="http://slack.XMirora.builders:3000/badge.svg" alt="Slack Status"></a>
 </p>
 
@@ -43,7 +43,7 @@ Note that you will need to install the lastest full version of Raspbian, **don't
 Execute the following command on your Raspberry Pi to install XMirora²:
 
 ```bash
-bash -c "$(curl -sL https://raw.githubusercontent.com/MichMich/XMirora/master/installers/raspberry.sh)"
+bash -c "$(curl -sL https://raw.githubusercontent.com/mohan-pannirselvam/XMirora/master/installers/raspberry.sh)"
 ```
 
 #### Manual Installation

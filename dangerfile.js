@@ -7,8 +7,8 @@ if (!danger.git.modified_files.includes("CHANGELOG.md")) {
 }
 
 // Check if the PR request is send to the master branch.
-// This should only be done by MichMich.
-if (danger.github.pr.base.ref === "master" && danger.github.pr.user.login !== "MichMich") {
+// This should only be done by mohan-pannirselvam.
+if (danger.github.pr.base.ref === "master" && danger.github.pr.user.login !== "mohan-pannirselvam") {
 	// Check if the PR body or title includes the text: #accepted.
 	// If not, the PR will fail.
 	if ((danger.github.pr.body + danger.github.pr.title).includes("#accepted")) {
