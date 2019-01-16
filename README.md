@@ -1,13 +1,7 @@
-![XMirora²: The open source modular smart mirror platform. ](.github/2.jpg)
 
 <p align="center">
-	<a href="https://david-dm.org/mohan-pannirselvam/XMirora"><img src="https://david-dm.org/mohan-pannirselvam/XMirora.svg" alt="Dependency Status"></a>
-	<a href="https://david-dm.org/mohan-pannirselvam/XMirora#info=devDependencies"><img src="https://david-dm.org/mohan-pannirselvam/XMirora/dev-status.svg" alt="devDependency Status"></a>
-	<a href="https://bestpractices.coreinfrastructure.org/projects/347"><img src="https://bestpractices.coreinfrastructure.org/projects/347/badge"></a>
-	<a href="http://choosealicense.com/licenses/mit"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
-	<a href="https://travis-ci.org/mohan-pannirselvam/XMirora"><img src="https://travis-ci.org/mohan-pannirselvam/XMirora.svg" alt="Travis"></a>
-	<a href="https://snyk.io/test/github/mohan-pannirselvam/XMirora"><img src="https://snyk.io/test/github/mohan-pannirselvam/XMirora/badge.svg" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/github/mohan-pannirselvam/XMirora" style="max-width:100%;"></a>
-	<a href="http://slack.XMirora.builders"><img src="http://slack.XMirora.builders:3000/badge.svg" alt="Slack Status"></a>
+  <img width="460" height="300" src=(.github/2.jpg)>
+	XMirora²: Your future Mirror interface.
 </p>
 
 **XMirora²** is an open source modular smart mirror platform. With a growing list of installable modules, the **XMirora²** allows you to convert your hallway or bathroom mirror into your personal assistant. **XMirora²** is built by the creator of [the original XMirora](http://michaelteeuw.nl/tagged/XMirora) with the incredible help of a [growing community of contributors](https://gitHub.com/mohan-pannirselvam/XMirora/graphs/contributors).
