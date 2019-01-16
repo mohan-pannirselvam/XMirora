@@ -1,6 +1,6 @@
 
 **XMirora²** is the new generation of Mirror usage.
-![XMirora²: Your Future Mirror. ](.github/22.jpg)
+![XMirora²: Your Future Mirror. ](.github/22.PNG)
 ## Table Of Contents
 
 - [Installation](#installation)
