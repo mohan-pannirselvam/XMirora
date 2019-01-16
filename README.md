@@ -1,12 +1,9 @@
+![XMirora²: Your future Mirror interface. ](.github/22.jpg)
 
-<p align="center">
-  <img width="460" height="300" src="https://drive.google.com/file/d/1CVqUkh1NsFvAw273UT6haDJNhfohkX-I/view">
-	XMirora²: Your future Mirror interface.
-</p>
 
-**XMirora²** is an open source modular smart mirror platform. With a growing list of installable modules, the **XMirora²** allows you to convert your hallway or bathroom mirror into your personal assistant. **XMirora²** is built by the creator of [the original XMirora](http://michaelteeuw.nl/tagged/XMirora) with the incredible help of a [growing community of contributors](https://gitHub.com/mohan-pannirselvam/XMirora/graphs/contributors).
+**XMirora²** is the new generation of Mirror usage.
 
-XMirora² focuses on a modular plugin system and uses [Electron](http://electron.atom.io/) as an application wrapper. So no more web server or browser installs necessary!
+
 
 ## Table Of Contents
 
