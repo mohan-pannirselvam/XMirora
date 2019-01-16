@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="460" height="300" src="https://drive.google.com/drive/folders/1-qw-42ZaJt0Zjk2zv-r0V3UR4ZepgR4k">
+  <img width="460" height="300" src="https://drive.google.com/file/d/1CVqUkh1NsFvAw273UT6haDJNhfohkX-I/view">
 	XMirora²: Your future Mirror interface.
 </p>
 
